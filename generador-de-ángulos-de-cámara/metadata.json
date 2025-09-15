@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Ángulos de Cámara",
+  "description": "Una aplicación que genera múltiples ángulos de cámara (plano general, medio, primer plano, etc.) a partir de una única imagen de referencia utilizando IA.",
+  "requestFramePermissions": []
+}
